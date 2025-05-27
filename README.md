@@ -30,7 +30,7 @@
    - Random Forest Classifier  
    - Accuracy: ~82%  
 
-3. **Results**  
+3. **Results
    - Women/children survived more  
    - 1st class passengers had higher survival  
 
